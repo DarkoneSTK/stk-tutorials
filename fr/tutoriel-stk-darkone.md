@@ -13,7 +13,7 @@ documentclass: book
 
 ---
 
-Voici quelques conseils pour optimiser ses performances et son jeu avec SuperTuxKart. Ces informations issues de mon expérience ne sont pas forcément exhaustives mais peuvent peut-être vous aider à progresser.
+Voici quelques conseils pour optimiser ses performances et son jeu avec SuperTuxKart. Ces informations issues de mon expérience ne sont pas forcément exhaustives mais peuvent peut-être vous aider à progresser. Rendez-vous sur le [site officiel de STK](https://supertuxkart.net/) pour découvrir le jeu avant d'aborder ce tutoriel.
 
 Pour améliorer ce document, n'hésitez pas à me contacter ([darkone-stk@gmail.com](mailto:darkone-stk@gmail.com)) ou à proposer une issue ou une request dans le [repository github](https://github.com/DarkoneSTK/stk-tutorials).
 
@@ -23,19 +23,24 @@ On vous dira que **l'entraînement et l'expérience sont la clé**. C'est vrai. 
 
 ## Règles de base pour une conduite efficace
 
-- **Prendre le chemin le plus court.** Entre l'intérieur et l'extérieur d'un virage, la différence de distance et de temps est importante. Quand on multiplie par tous les virages, ça fait une GROSSE différence. Il est donc important, toujours, de couper au plus court.
+- **Prendre le chemin[^chemin] le plus court.** Entre l'intérieur et l'extérieur d'un virage, la différence de distance et de temps est importante. Quand on multiplie par tous les virages, ça fait une GROSSE différence. Il est donc important, toujours, de couper au plus court.
 - **Maîtriser l'art du dérapage.** Il existe un petit (jaune) et un gros (rouge) dérapage. Dès que la couleur voulue apparaît, il faut lâcher la touche au plus tôt, puis recommencer à déraper.
-  - L'idéal est de déraper tout le temps, le plus possible jusqu'au rouge, tout en gardant le chemin le plus court. Une anticipation à acquérir avec l'expérience.
-  - Quand on est à l'arrêt, deux dérapages jaunes sont plus efficaces qu'un rouge pour accélérer jusqu'à la vitesse optimale, sauf avec de la nitro ou un seul jaune sera suffisant.
-- **Connaître et maîtriser les raccourcis.** Ils permettent de réduire encore plus la longueur du chemin parcouru. Il faut composer entre la difficulté du raccourci et son gain... pour un record on se risquera davantage que pour une course avec des concurrents. Voir _"Savoir où sont les checkpoints"_ un peu plus loin pour savoir comment trouver les raccourcis.
+  - L'idéal est de **déraper tout le temps**, le plus possible jusqu'au rouge, tout en gardant le chemin le plus court. Une anticipation à acquérir avec l'expérience.
+  - Quand on est à l'arrêt, **deux dérapages jaunes** sont plus efficaces qu'un rouge pour accélérer jusqu'à la vitesse optimale, sauf avec de la nitro ou un seul jaune sera suffisant.
+- **Connaître et maîtriser les raccourcis.** Ils permettent de réduire encore plus la longueur du chemin parcouru. Il faut composer entre la difficulté du raccourci et son gain... pour un record on se risquera davantage que pour une course avec des concurrents. Voir _"Savoir où sont les checkpoints"_ un peu plus loin pour savoir comment trouver les raccourcis. Et pour s'entraîner, rien de mieux que les circuits USC des excellents [circuits de mimiz](https://stk.kimden.online/records/mimiz.html).
 - **Attraper un maximum de nitro.** Les nitros sont très importantes pour avancer plus vite et rattraper le premier. S'il y a le choix, préférer les nitros aux cadeaux, sauf si vous êtes dernier et que la probabilité d'avoir des zippers est importante.
 - **Utiliser la nitro au bon moment.** C'est à dire quand il est encore possible d'accélérer. Donc quand on va pas vite ou qu'on ralentit (écouter le bruit du moteur). Un bon réflexe est d'utiliser la nitro pendant un dérapage rouge (pour maintenir la vitesse du kart) et non juste après.
-- **Utiliser le zipper au bon moment.** Il est dommage d'annuler prématurément l'effet du zipper avec un virage serré ou un obstacle. Il vaut mieux choisir une ligne droite ou une portion de circuit facile pour profiter du zipper.
+- **Utiliser le zipper[^zipper] au bon moment.** Il est dommage d'annuler prématurément l'effet du zipper avec un virage serré ou un obstacle. Il vaut mieux choisir une ligne droite ou une portion de circuit facile pour profiter du zipper.
+
+[^chemin]: Le "chemin" est la trace réelle du kart.
+[^zipper]: Option d'accélération (flèche jaune) obtenue dans un cadeau.
 
 ## Connaître les circuits
 
-- **Savoir où sont les "checkpoints".** Cela permet entre autre de trouver des raccourcis et savoir à quel point on peut couper certains virages, pour optimiser le chemin. On peut rendre les checkpoints visibles en mettant `artist_debug_mode` à `true` dans `config.xml`.
+- **Savoir où sont les "checkpoints"[^checkpoint].** Cela permet entre autre de trouver des raccourcis et savoir à quel point on peut couper certains virages, pour optimiser le chemin. On peut rendre les checkpoints visibles en mettant `artist_debug_mode` à `true` dans `config.xml`.
 - **Choisir le bon kart en fonction du circuit.** Pour établir des records, un kart lourd est presque toujours le bon choix. Mais pour des courses classiques il vaut mieux avoir des karts plus maniables sur les circuits sinueux et compliqués.
+
+[^checkpoint]: Les checkpoints sont l'ensemble des zones à franchir pour valider un tour de course. S'il y en a peu, il est possible de trouver des raccourcis entre ces checkpoints pour optimiser son chemin.
 
 ## Autres paramètres importants
 
