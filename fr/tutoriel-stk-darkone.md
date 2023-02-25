@@ -15,11 +15,11 @@ documentclass: book
 
 Voici quelques conseils pour optimiser ses performances et son jeu avec SuperTuxKart. Ces informations issues de mon expérience ne sont pas forcément exhaustives mais peuvent peut-être vous aider à progresser.
 
-Pour améliorer ce document, n'hésitez pas à me contacter : [darkone-stk@gmail.com](mailto:darkone-stk@gmail.com).
+Pour améliorer ce document, n'hésitez pas à me contacter ([darkone-stk@gmail.com](mailto:darkone-stk@gmail.com)) ou à proposer une issue ou une request dans le [repository github](https://github.com/DarkoneSTK/stk-tutorials).
 
 # Améliorer son temps
 
-On vous dira que **l'entraînement et l'expérience sont la clé**. C'est vrai. Cependant, les meilleurs joueurs observent certaines règles imporantes.
+On vous dira que **l'entraînement et l'expérience sont la clé**. C'est vrai. Cependant, les meilleurs joueurs observent certaines règles importantes.
 
 ## Règles de base pour une conduite efficace
 
@@ -49,11 +49,11 @@ On vous dira que **l'entraînement et l'expérience sont la clé**. C'est vrai. 
 # Interagir avec les autres
 
 - **Se détacher à tout prix de la foule.** En début de course on est empêtré dans la "foule" de karts avec de grandes chances d'être poussé, explosé, freiné. L'idéal est d'arriver à rapidement s'en écarter sans se faire exploser, ce qui est plus facile avec un kart léger malgré sa vitesse limitée par la suite. Une fois devant tout le monde, la voie est libre.
-- **Éviter d'être derrière un autre kart (mode normal).** Quand il y a des cadeaux partout et beaucoup de karts, se retrouver juste derrière un autre comporte un fort risque d'être freiné par un cake, une boule, un chewing gum, une tapette, etc.
+- **Éviter d'être derrière un autre kart (mode normal).** Quand il y a des cadeaux partout et beaucoup de karts, se retrouver juste derrière un autre comporte un fort risque d'être freiné par un cake, une boule, un chewing-gum, une tapette, etc.
 - **Profiter de l'effet d'aspiration (time trial).** En mode "time trial" en revanche, on peut profiter de l'aspiration des autres karts en se mettant derrière. C'est particulièrement visible sur les circuits de course où deux bons joueurs qui vont sensiblement à la même vitesse font souvent un yoyo entre 1er et 2ème.
-- **Préférer un kart maniable s'il y a du monde.** Un kart léger aura pour avantage de mieux se faufiller et de redémarrer plus vite en cas d'arrêts intempestifs. Quans il y a beaucoup de monde, c'est un vrai atout, car il y a plus de chance d'être freiné par les cadeaux des autres.
+- **Préférer un kart maniable s'il y a du monde.** Un kart léger aura pour avantage de mieux se faufiler et de redémarrer plus vite en cas d'arrêts intempestifs. Quans il y a beaucoup de monde, c'est un vrai atout, car il y a plus de chance d'être freiné par les cadeaux des autres.
 - **Alternative : démarrer dernier et prendre des cadeaux-zippers.** Une technique risquée mais qui peut porter ses fruits, car les cadeaux des derniers ont de grande chance de comporter des zippers qui permettent de rapidement rattraper puis dépasser les concurrents.
-- **Utiliser la protection chewing gum au bon moment.** Cette protection peut être activée juste avant l'arrivée d'un ballon de basket, un nouveau cadeau ou au moment de croiser un concurrent... il est important de l'activer quand les probabilités qu'elle soit utile sont fortes.
+- **Utiliser la protection chewing-gum au bon moment.** Cette protection peut être activée juste avant l'arrivée d'un ballon de basket, un nouveau cadeau ou au moment de croiser un concurrent... il est important de l'activer quand les probabilités qu'elle soit utile sont fortes.
 - **S'entraîner à viser avec les boules.** C'est pas évident (et j'avoue que ce n'est pas mon point fort) mais arriver à bien viser avec les boules est un atout. Le kart concurrent doit être juste devant et s'il est loin, ne pas trop tourner (ou anticiper son mouvement).
 
 # Réflexes à avoir
@@ -63,7 +63,7 @@ Quand on est débutant, on ne connaît pas toujours certaines astuces importante
 ## Astuces basiques
 
 - **Utiliser le zipper du départ.** Au départ, il y a trois temps "Ready!", "Set!", "Go!". Appuyer sur l'accélérateur au début de "Set!" permet d'avoir un zipper au début.
-- **Enlever une bombe.** Le chewing gum et la tapette permettent de retirer une bombe. Mais il est aussi possible de toucher un concurrent pour lui transmettre la bombe.
+- **Enlever une bombe.** Le chewing-gum et la tapette permettent de retirer une bombe. Mais il est aussi possible de toucher un concurrent pour lui transmettre la bombe.
 - **Enlever un parachute.** Pour cela il faut piller (freiner fortement) puis redémarrer. Dans la majorité des cas c'est plus bénéfique que de continuer à accélérer.
 - **Utiliser le filin.** Quand il y a un concurrent pas trop loin devant, le filin permet de l'accrocher pour accélérer et souvent le dépasser.
 - **Envoyer un cake au bon moment.** Les cakes fonctionnent quand le concurrent est relativement prêt et que sa vitesse ne diffère pas trop de la vôtre.
@@ -74,7 +74,7 @@ Quand on est débutant, on ne connaît pas toujours certaines astuces importante
 - **Ne pas regarder son kart.** Même s'il est beau. Fixer plutôt le circuit et tout ce qui se passe devant le kart&nbsp;! Ça permettra d'optimiser la course en anticipant beaucoup mieux les virages et les obstacles (en particulier les gums).
 - **Enlever une bombe en lançant un "rescue" au bon moment.** Dans l'absolu on ne perdra pas plus de temps en faisant ça, mais si on est sur le point d'exploser, autant le faire avant un accélérateur que juste après.
 - **Dérapage + virage sans accélération.** Lâcher temporairement la touche d'accélération puis déraper permet de mieux amorcer un virage serré. Un bon réflexe à avoir pour optimiser le chemin parcouru en évitant de se retrouver à l'extérieur du virage, voir dans le ravin.
-- **Optimiser le chemin grâce à la bulle rose.** Elle permet de passer sur les bananes sans en subir le sort. Ne pas hésiter à passer sur la banane située à l'intérieur d'un virage pour raccourcir le chemin.
+- **Optimiser le chemin grâce à la bulle du chewing-gum.** Elle permet de passer sur les bananes sans en subir le sort. Ne pas hésiter à passer sur la banane située à l'intérieur d'un virage pour raccourcir le chemin.
 
 # Erreurs à éviter
 
