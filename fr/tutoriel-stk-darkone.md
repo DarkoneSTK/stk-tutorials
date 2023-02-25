@@ -15,7 +15,7 @@ documentclass: book
 
 Voici quelques conseils pour optimiser ses performances et son jeu avec SuperTuxKart. Ces informations issues de mon expérience ne sont pas forcément exhaustives mais peuvent peut-être vous aider à progresser. Rendez-vous sur le [site officiel de STK](https://supertuxkart.net/) pour découvrir le jeu avant d'aborder ce tutoriel.
 
-Pour améliorer ce document, n'hésitez pas à me contacter ([darkone-stk@gmail.com](mailto:darkone-stk@gmail.com)) ou à proposer une issue ou une request dans le [repository github](https://github.com/DarkoneSTK/stk-tutorials).
+Pour améliorer ce document, vous pouvez me contacter ([darkone-stk@gmail.com](mailto:darkone-stk@gmail.com)) ou proposer une issue / request dans le [repository github](https://github.com/DarkoneSTK/stk-tutorials).
 
 # Améliorer son temps
 
@@ -46,6 +46,7 @@ On vous dira que **l'entraînement et l'expérience sont la clé**. C'est vrai. 
 
 - **Avoir une bonne configuration matérielle.** Un bon clavier gamer (avec un temps de réponse très rapide), un ordinateur puissant avec une carte graphique imposante, ainsi qu'une connexion internet fibre et un réseau filaire rapide (pour jouer en ligne) sont autant d'atouts pour ne pas être limité par le matériel. On peut cependant jouer avec une configuration moindre (j'ai personnellement un vieux laptop de bureau avec une connexion 4G) mais c'est parfois un peu frustrant de perdre à cause de ralentissements matériels.
 - **Minimiser les effets visuels.** Les effets visuels consomment beaucoup de CPU / GPU. Pour optimiser les temps de réponse (surtout sur un ordinateur dont la configuration matérielle est limitée), mettre au minimum (ou presque) les options d'effets visuels.
+- **Libérer des ressources.** Fermer les logiciels qui consomment du CPU et de la RAM. Mais également tout ce qui consomme du réseau et de l'internet (streaming vidéo, etc.). Le fameux "lag" est souvent dû à des perturbations réseau.
 
 ## Conseils moins importants
 
@@ -92,7 +93,7 @@ Quand on est débutant, on ne connaît pas toujours certaines astuces importante
 
 - **Faites des courses en ligne avec (un peu) plus fort que vous.** Même si c'est frustrant de perdre, on progresse mieux avec des concurrents de même niveau ou un peu plus forts. Avec les débutants, soyez sympa et conseillez-leur ce document ;). Un concurrent beaucoup plus fort vous distancera rapidement et ne vous apprendra pas grand chose tant que vous n'aurez pas ses réflexes.
 - **Faites des courses hors ligne avec 19 bots.** Les bots des courses hors-ligne sont plus performants que les bots en ligne, même si avec l'expérience ils seront rapidement des concurrents faciles à battre. Pour s'entraîner à rouler dans la foule, choisir un circuit très court avec plein de cadeaux et un maximum de concurrents.
-- **Étudiez les records et les challenges sur youtube.** De nombreux joueurs passionnés publient leurs courses et records sur le net. Les regarder et les analyser est très bénéfique pour apprendre.
+- **Étudier les records et les challenges sur youtube.** De nombreux joueurs passionnés publient leurs courses et records sur le net. Les regarder et les analyser est très bénéfique pour apprendre.
 - **Télécharger des fichiers "records" sur discord.** De la même manière, on peut télécharger les fichiers "records" et s'entraîner à jouer contre ces enregistrements.
 - **Télécharger beaucoup de circuits.** S'entraîner sur une multitude de circuits différents permet de se diversifier et améliorer son jeu.
 - **Savoir prendre la nitro entre les deux bananes.** Souvent, il y a une grosse nitro entre deux bananes. Cela demande de faire un petit écart de conduite pour l'attraper sans trop ralentir.
