@@ -23,10 +23,14 @@ On vous dira que **l'entraînement et l'expérience sont la clé**. C'est vrai. 
 
 ## Règles de base pour une conduite efficace
 
-- **Prendre le chemin[^chemin] le plus court.** Entre l'intérieur et l'extérieur d'un virage, la différence de distance et de temps est importante. Quand on multiplie par tous les virages, ça fait une GROSSE différence. Il est donc important, toujours, de couper au plus court.
-- **Maîtriser l'art du dérapage.** Il existe un petit (jaune) et un gros (rouge) dérapage. Dès que la couleur voulue apparaît, il faut lâcher la touche au plus tôt, puis recommencer à déraper.
-  - L'idéal est de **déraper tout le temps**, le plus possible jusqu'au rouge, tout en gardant le chemin le plus court. Une anticipation à acquérir avec l'expérience.
-  - Quand on est à l'arrêt, **deux dérapages jaunes** sont plus efficaces qu'un rouge pour accélérer jusqu'à la vitesse optimale, sauf avec de la nitro ou un seul jaune sera suffisant.
+- **Prendre le chemin[^chemin] le plus court.** Entre l'intérieur et l'extérieur d'un virage, la différence de distance et de temps est importante. Quand on multiplie par tous les virages, ça fait une GROSSE différence. Il est donc important, toujours, de couper au plus court. Cependant, quelques raisons de déroger à la règle&nbsp;:
+  - Faire un écart pour aller chercher une nitro (surtout une grosse).
+  - Faire un écart pour aller chercher un accélérateur.
+  - Manoeuvrer pour se protéger d'un adversaire.
+  - Aller jusqu'au bout d'un dérapage.
+- **Maîtriser l'art du dérapage.** Il existe un petit (jaune) et un gros (rouge) dérapage. Dès que la couleur voulue apparaît, il faut lâcher la touche au plus tôt, puis recommencer à déraper (faire durer le dérapage ne sert à rien).
+  - L'idéal est de **faire le plus de dérapages possible**, jusqu'au rouge si possible, tout en gardant le chemin le plus court. Une anticipation à acquérir avec l'expérience.
+  - Quand on est à l'arrêt, **deux dérapages jaunes** sont plus efficaces qu'un rouge pour accélérer jusqu'à la vitesse optimale, sauf avec de la nitro (un seul jaune sera suffisant) ou si la géométrie du circuit requiert une autre stratégie.
 - **Connaître et maîtriser les raccourcis.** Ils permettent de réduire encore plus la longueur du chemin parcouru. Il faut composer entre la difficulté du raccourci et son gain... pour un record on se risquera davantage que pour une course avec des concurrents. Voir _"Savoir où sont les checkpoints"_ un peu plus loin pour savoir comment trouver les raccourcis. Et pour s'entraîner, rien de mieux que les circuits USC des excellents [circuits de mimiz](https://stk.kimden.online/records/mimiz.html).
 - **Attraper un maximum de nitro.** Les nitros sont très importantes pour avancer plus vite et rattraper le premier. S'il y a le choix, préférer les nitros aux cadeaux, sauf si vous êtes dernier et que la probabilité d'avoir des zippers est importante.
 - **Utiliser la nitro au bon moment.** C'est à dire quand il est encore possible d'accélérer. Donc quand on va pas vite ou qu'on ralentit (écouter le bruit du moteur). Un bon réflexe est d'utiliser la nitro pendant un dérapage rouge (pour maintenir la vitesse du kart) et non juste après.
@@ -50,7 +54,7 @@ On vous dira que **l'entraînement et l'expérience sont la clé**. C'est vrai. 
 
 ## Conseils moins importants
 
-- **Désactiver la musique** permet de mieux se concentrer sur le jeu et d'entendre les sons importants.
+- **Désactiver la musique** (ou baisser son volume) permet de mieux se concentrer sur le jeu et d'entendre les sons importants (en revanche il faut laisser les effets sonores activés&nbsp;!).
 
 # Interagir avec les autres
 
@@ -94,6 +98,7 @@ Quand on est débutant, on ne connaît pas toujours certaines astuces importante
 - **Faites des courses en ligne avec (un peu) plus fort que vous.** Même si c'est frustrant de perdre, on progresse mieux avec des concurrents de même niveau ou un peu plus forts. Avec les débutants, soyez sympa et conseillez-leur ce document ;). Un concurrent beaucoup plus fort vous distancera rapidement et ne vous apprendra pas grand chose tant que vous n'aurez pas ses réflexes.
 - **Faites des courses hors ligne avec 19 bots.** Les bots des courses hors-ligne sont plus performants que les bots en ligne, même si avec l'expérience ils seront rapidement des concurrents faciles à battre. Pour s'entraîner à rouler dans la foule, choisir un circuit très court avec plein de cadeaux et un maximum de concurrents.
 - **Étudier les records et les challenges sur youtube.** De nombreux joueurs passionnés publient leurs courses et records sur le net. Les regarder et les analyser est très bénéfique pour apprendre.
+- **Participer aux concours, grands prix et autres événements.** Pour cela, un bon point d'entrée est [le site web réalisé par kimden](https://stk.kimden.online) qui propose des rendez-vous et compile les records des circuits "Francfurt".
 - **Télécharger des fichiers "records" sur discord.** De la même manière, on peut télécharger les fichiers "records" et s'entraîner à jouer contre ces enregistrements.
 - **Télécharger beaucoup de circuits.** S'entraîner sur une multitude de circuits différents permet de se diversifier et améliorer son jeu.
 - **Savoir prendre la nitro entre les deux bananes.** Souvent, il y a une grosse nitro entre deux bananes. Cela demande de faire un petit écart de conduite pour l'attraper sans trop ralentir.
@@ -104,5 +109,5 @@ Quand on est débutant, on ne connaît pas toujours certaines astuces importante
 
 # Configuration avancée
 
-- **Minimiser les effets visuels.** (todo)
-- **Compiler un binaire optimisé.** (todo)
+- **Minimiser les effets visuels.** Aller dans la configuration du jeu et mettre au plus bas les effets visuels, sauf les FPS si possible. Il existe d'autres paramètres dans les fichiers de configuration, par exemple pour modifier les angles de vues, qui peuvent être utiles pour optimiser le confort de jeu.
+- **Compiler un binaire optimisé.** Pour ceux qui compilent le jeu, se référer à la documentation en ligne pour optimiser le binaire en fonction de sa configuration matérielle.
